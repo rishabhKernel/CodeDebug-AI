@@ -1,4 +1,4 @@
-# CodeDebug AI
+# 🤖 CodeDebug AI
 
 CodeDebug AI is an intelligent code debugging assistant designed to help developers find, analyze, and fix errors in their code instantly. With a user-friendly interface, it allows users to paste their code, identify potential issues, and get corrected solutions accompanied by best practices. 
 
